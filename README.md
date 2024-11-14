@@ -1,6 +1,8 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+### NAME: HARIPRIYA M
+### REG NO: 24002362
+# BOOLEAN FUNCTION MINIMIZATION
 
-**AIM:**
+## AIM:
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
 
@@ -8,17 +10,14 @@ F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
-**Equipment Required:**
+## EQUIPMENT REQUIRED:
 
 Hardware – PCs, Cyclone II , USB flasher
 
-**Software – Quartus prime**
+### SOFTWARE – QUARTUS PRIME
 
-**Theory**
 
-**Logic Diagram**
-
-**Procedure**
+## PROCEDURE:
 
 1.	Type the program in Quartus software.
 
@@ -31,22 +30,27 @@ Hardware – PCs, Cyclone II , USB flasher
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
+## PROGRAM:
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:*/
+![Screenshot 2024-11-14 140551](https://github.com/user-attachments/assets/e209976d-7113-453f-90c6-0db4c4a4aeb2)
 
 
-**RTL realization**
+## LOGIC SYMBOL AND TRUTH TABLE:
 
-**Output:**
+![Screenshot 2024-11-14 141517](https://github.com/user-attachments/assets/fd349847-13b9-4d68-9f9a-8733a40829db)
+![Screenshot 2024-11-14 141544](https://github.com/user-attachments/assets/8bc428a8-e44b-4810-945b-49e778c8ef92)
 
-**RTL**
 
-**Timing Diagram**
+## RTL OUPUT:
 
-**Result:**
+![Screenshot 2024-11-14 140625](https://github.com/user-attachments/assets/4bf481a4-23a6-4cea-9c5c-ce065996de5b)
 
+
+## OUTPUT WAVEFORM:
+
+![image](https://github.com/user-attachments/assets/41aec599-0168-44d3-adbe-5c3352ed45bc)
+
+
+## RESULT:
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 

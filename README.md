@@ -1,6 +1,7 @@
 ### NAME: HARIPRIYA M
 ### REG NO: 24002362
-# BOOLEAN FUNCTION MINIMIZATION
+### DATE: 09.10.2024
+# EXPERIMENT 2: BOOLEAN FUNCTION MINIMIZATION
 
 ## AIM:
 
@@ -52,5 +53,5 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 ## RESULT:
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+Thus, the Boolean function minimization was successfully implemented using Verilog. 
 
